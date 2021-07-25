@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Nilesh;Padhiyar;;;
+FN: NILESH PADHIYAR 
+ORG:Electronicsystems;
+TITLE:Industrial Automation Engineer\n Automation Division
+EMAIL;type=INTERNET;type=WORK;type=pref:padhiyarnilesh81@gmail.com
+TEL;type=WORK;type=VOICE:+919714373075
+item1.ADR;type=WORK;type=pref:;;GIDC Industrial Area\n Vadodara\, Gujrat
+item1.X-ABADR:sg
+item2.URL;type=pref:nileshpadhiyar.tk
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
